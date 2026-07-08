@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://ben-or-1a8392c7.zappy5.app
+https://example.com
 גלו את הממלכה הכי רכה ברשת! חנות הסקווישי המובילה בישראל עם מאות דגמים מתוקים לילדים, נוער ואספנים. קניית סקווישי אונליין בישראל עוד לא הייתה כיפית כזו – היכנסו עכשיו!
 
 ### מדריך מתנות
-https://ben-or-1a8392c7.zappy5.app/gift-guide
+https://example.com/gift-guide
 מתלבטים איזה סקווישי לקנות? מדריך המתנות שלנו ייקח אתכם יד ביד מבחירת דמות מחבקת ועד אריזת הפתעה שתגנוב את ההצגה. כנסו למצוא את הסקווישי שיעשה את היום!
 
 ### אודות
-https://ben-or-1a8392c7.zappy5.app/about
+https://example.com/about
 הכירו את Ben&amp;Or – חנות סקווישי ישראלית שנולדה מאהבה אמיתית לצעצועים רכים ומעלפים. אנחנו מביאים לכם את מיטב הסקווישי אנטי סטרס לבני נוער, ילדים ואספנים, עם חיוך ענק ושירות אישי.
 
 ### שאלות נפוצות
-https://ben-or-1a8392c7.zappy5.app/faq
+https://example.com/faq
 איך שומרים על סקווישי רך לאורך זמן? מה עושים כשהוא מתלכלך? כל התשובות לשאלות הכי נפוצות על סקווישי לילדים ולנוער מחכות לכם כאן. כנסו להפוך למומחי סקווישי אמיתיים!
 
 ### צור קשר
-https://ben-or-1a8392c7.zappy5.app/contact
+https://example.com/contact
 יש שאלה על משלוח, רוצים המלצה אישית או סתם בא לכם לפטפט על סקווישי? צרו קשר עם הצוות המתוק של Ben&amp;Or – אנחנו מבטיחים לענות מהר ועם המון אהבה לסקווישי.
 
 ### Products
-https://ben-or-1a8392c7.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Ben&Or
 
 ### Cart
-https://ben-or-1a8392c7.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://ben-or-1a8392c7.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://ben-or-1a8392c7.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://ben-or-1a8392c7.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://ben-or-1a8392c7.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://ben-or-1a8392c7.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Ben&Or
 
 ### Category
-https://ben-or-1a8392c7.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Ben&Or
 
 ### תודה שפניתם אלינו
-https://ben-or-1a8392c7.zappy5.app/thank-you
+https://example.com/thank-you
 Ben&Or - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://ben-or-1a8392c7.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://ben-or-1a8392c7.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://ben-or-1a8392c7.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ E-commerce / Toys & Collectibles
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://ben-or-1a8392c7.zappy5.app/sitemap.xml
-- Robots: https://ben-or-1a8392c7.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://ben-or-1a8392c7.zappy5.app/llms-full.txt
-- Products (JSON): https://ben-or-1a8392c7.zappy5.app/products.json
-- Products (Google Merchant RSS): https://ben-or-1a8392c7.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
